@@ -24,8 +24,9 @@ This repository documents the theory and examples of causal inference methods. T
 	- regression
 	- matching, propensity score matching, inverse probability weights
 		- Propensity model tuning and covariate balance
-	- Doubly Robust (DR)
+	- Doubly Robust (DR), Double Machine Learning (DML)
 		- What if both models are wrong in DR
 - Matched DID, panel DR
+- Time series: Synthetic control
 
 This repo will use examples from common data source or simulated data. 
